@@ -169,7 +169,7 @@ public class RTMonAndroidConversation extends Activity {
         adapter.add("KOREAN");
         adapter.add("ITALIAN");
         
-        Spinner spinner = (Spinner) findViewById(R.id.langageSpinner);
+        Spinner spinner = (Spinner) findViewById(R.id.LanguageSpinner);
         spinner.setAdapter(adapter);
         spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override

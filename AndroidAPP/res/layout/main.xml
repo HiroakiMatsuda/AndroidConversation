@@ -95,11 +95,11 @@
     android:layout_height="wrap_content"
     android:layout_marginTop="5sp"
     android:gravity="center"
-    android:text="Speech: Languge"
+    android:text="Speech: Language"
     android:textSize="24sp" />
 
 <Spinner
-    android:id="@+id/langageSpinner"
+    android:id="@+id/LanguageSpinner"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
 

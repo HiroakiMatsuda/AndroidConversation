@@ -18,10 +18,10 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
+        public static final int LanguageSpinner=0x7f060009;
         public static final int editText=0x7f060001;
         public static final int inDataTitleView=0x7f060004;
         public static final int inDataView=0x7f060005;
-        public static final int langageSpinner=0x7f060009;
         public static final int langageTitleView=0x7f060008;
         public static final int outDataTitleView=0x7f060006;
         public static final int outDataView=0x7f060007;
